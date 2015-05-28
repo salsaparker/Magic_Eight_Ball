@@ -23,6 +23,7 @@ class MagicEight
       puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
       @answer_arr.sample
     end
+    asdfas
 
     def play
       greeting_instructions
