@@ -46,7 +46,7 @@ class MagicEight
 
     def play
       greeting_instructions
-      while true
+      while true  #loops through the 'comp_response' method and 'play_again' method so we don't get the 'greeting_instructions' method after every play back
       comp_response
       play_again
       end #while end statement
